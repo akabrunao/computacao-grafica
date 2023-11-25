@@ -1,3 +1,7 @@
+# Para testar:
+# rode 'python3 ./Atividade02/test_unit.py' no terminal
+
+
 import unittest2
 from vec2 import Vec2
 from vec3 import Vec3
